@@ -47,7 +47,7 @@ Work experience
   
 Competition experience
 =====
-* 2021.09: [Second Prize of Guangdong Province Division](../../../files/国赛奖状.pdf) of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+* 2021.09: [Second Prize of Guangdong Province Division](../../../tree/master/files/国赛奖状.pdf) of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
   * Level of Award: Around top 15% out of world-wide competitors 
   * Name of Awarding Body: China Society for Industrial and Applied Mathematics
   * Details of Award: A genetic algorithm-based decision model for reducing raw material ordering and transportation costs in manufacturing companies
