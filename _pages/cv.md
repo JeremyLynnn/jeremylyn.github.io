@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Data Science, Beijing Normal University-Hong Kong Baptist University United International College, 2023 (Expected)
+* B.S. in Data Science, BNU-HKBU United International College, 2023 (expected)
 
-
+Academic Performance
+======
+* Overall GPA: 3.59/4 (Rank as top 20)
+* Core Courses GPA: 3.85/4 (Rank as top 5)
+* The 3^{rd} year GPA: 3.96/4 (Rank as top 1)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2021: Research Assistant
   * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: 
+  * Supervisor: Professor Raymond Lee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* summer 2022: Research Assistant
+  * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center Sun Yat-Sen University
+  * Duties included: 
+  * Supervisor: Professor LIN Haotian
   
 Skills
 ======
