@@ -17,7 +17,7 @@ Academic Performance
 ======
 * Overall GPA: 3.59/4 (Rank as top 20)
 * Core Courses GPA: 3.85/4 (Rank as top 5)
-* The 3^{rd} year GPA: 3.96/4 (Rank as top 1)
+* The third year GPA: 3.96/4 (Rank as top 1)
 
 Work experience
 ======
