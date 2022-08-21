@@ -48,7 +48,7 @@ Work experience
 Competition experience
 =====
 * 2021.09: [Second Prize of Guangdong Province Division](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E5%9B%BD%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf) of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
-  * Level of Award: Around top 15% out of world-wide competitors 
+  * Level of Award: Around top 15% out of nation-wide competitors 
   * Name of Awarding Body: China Society for Industrial and Applied Mathematics
   * Details of Award: A genetic algorithm-based decision model for reducing raw material ordering and transportation costs in manufacturing companies
 
