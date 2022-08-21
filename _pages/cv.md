@@ -30,9 +30,10 @@ Work experience
 * Feb2021-present: Research Assistant
   * Quantum Finance Laboratory of BNU-HKBU UIC
   * Supervisor: Professor [Raymond Lee](https://dst.uic.edu.cn/en/faculty/faculty.htm#/raymondshtlee/en)
-  * Duties included: Application of quantum finance theory as a risk control module combined into reinforcement learning multi-intelligence trading algorithms
+  * Duties included: 
+    * Designed and developed a multi-agents trading system
+    * Applied the quantum finance theory on the risk control module of the trading system
   
-
 * Jun2022-Sep2022: Research Assistant
   * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center Sun Yat-Sen University
   * Supervisor: Professor [Lin Haotian](https://bme.sysu.edu.cn/teacher/teacher05/1395910.htm)
