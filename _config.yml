@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "JeremyLyn"
 description              : &description "personal description"
 url                      : https://jeremylynnn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/JeremyLynnn" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeremylynnn/jeremylynnn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lin Runsheng"
   avatar           : "https://s1.328888.xyz/2022/08/21/BAgfI.jpg"
-  bio              : "Bio"
-  location         : "Guangzhou🇨🇳"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "jeremylinrs@foxmail.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
