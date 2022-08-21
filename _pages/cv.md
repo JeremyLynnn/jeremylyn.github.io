@@ -17,7 +17,12 @@ Academic Performance
 ======
 * Overall GPA: 3.59/4 (Rank as top 20)
 * Core Courses GPA: 3.85/4 (Rank as top 5)
-* The third year GPA: 3.96/4 (Rank as top 1)
+* Year3 GPA: 3.96/4 (Rank as top 1)
+
+Honer
+======
+* 2021-2022: First Class Scholarship（School Level）
+* 2021-2022: National Scholarship Candidates
 
 Work experience
 ======
@@ -26,19 +31,41 @@ Work experience
   * Duties included: 
   * Supervisor: Professor Raymond Lee
 
-* summer 2022: Research Assistant
+* Summer 2022: Research Assistant
   * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center Sun Yat-Sen University
   * Duties included: 
-  * Supervisor: Professor LIN Haotian
+  * Supervisor: Professor Lin Haotian
   
+Competition experience
+=====
+* 2021.09: Second Prize of Guangdong Province Division of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+  * Level of Award: Around top 15% out of world-wide competitors 
+  * Name of Awarding Body: China Society for Industrial and Applied Mathematics
+  * Details of Award: A genetic algorithm-based decision model for reducing raw material ordering and transportation costs in manufacturing companies
+
+* 2022.02: Mertorious Winner of The Mathematical Contest in Modeling (MCM)
+  * Level of Award: Around top 10% out of world-wide competitors 
+  * Name of Awarding Body: the Consortium for Mathematics and Its Applications
+  * Details of Award: Designed the quantitative finance model for constructing the optimized portfolio based on sharpe ratio
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient with:
+  *  Python
+  *  R
+  *  Matlab
+  *  Latex
+* Familiar with:
+  * Java
+  * SQL
+  * Git
+  * C
+
+Course Project
+=====
+* Reinforcement Learning: The Deep Deterministic Policy Gradient based Stock trading system
+* 
 
 Publications
 ======
