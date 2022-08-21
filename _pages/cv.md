@@ -28,12 +28,21 @@ Work experience
 ======
 * Summer 2021: Research Assistant
   * Quantum Finance Laboratory in BNU-HKBU
-  * Duties included: 
+  * Duties included: Application of quantum finance theory as a risk control module combined into reinforcement learning multi-intelligence trading algorithms
   * Supervisor: Professor Raymond Lee
 
 * Summer 2022: Research Assistant
   * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center Sun Yat-Sen University
   * Duties included: 
+    * A dry eye diagnosis model based on multimodal feature fusion
+      * Collation and cleaning of 1,000 patient questionnaire data and eye appearance videos collected by the hospital
+      * Development of a multimodal machine learning model (convolutional recurrent neural network for video data integrated with catBoost decision tree for structured data) to predict and classify the degree of dry eye symptoms in patients, with an evaluation index AUC of 0.95
+      * Comparison and optimisation of model performance and participation in thesis writing
+    * A deep learning model for diagnosing jaundice based on eye appearance
+      * Design and implementation of external validation experiments and participation in thesis writing
+    * A model for classification of post-dialysis blood test indicators in patients with kidney disease based on OCTA image analysis
+      * Data cleaning and extraction
+      * Analyze the problems of over-fitting due to mismatch between sample size and feature magnitude, poor modeling due to unbalanced distribution of sample labels, and design related experiments
   * Supervisor: Professor Lin Haotian
   
 Competition experience
@@ -64,27 +73,25 @@ Skills
 
 Course Project
 =====
-* Reinforcement Learning: The Deep Deterministic Policy Gradient based Stock trading system
-* 
-
+* Reinforcement Learning
+  * A Deep Deterministic Policy Gradient based Stock trading system
+* Database/Software Design
+  * A used car trading system based on Django framework
+  * A literature search platform based on Spark and ElasticSearch
+  * A bank transaction system based on Swing framework
+* Natural Language Processing:
+  * Classification and extraction of text information
+  * Analysis and forecast of project completion on Donorschoose crowdfunding platform
+* Computer Vision
+  * LeNet-based traffic sign recognition classifier
+  * Chinese License Plate Recognition Classifier
+* Regression Analysis
+  * Used car market price analysis
+  * Analysis of the causes of heart disease
+* Others
+  * Large number multiplication algorithm on Fourier transform optimization
+  * Large-scale portfolio optimisation system in day trading
 Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Audio feature extraction and analysis
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
