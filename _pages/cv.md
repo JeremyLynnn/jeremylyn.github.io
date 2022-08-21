@@ -15,10 +15,11 @@ Education
 
 Academic Performance
 ======
-* Overall GPA: 3.59/4 (Rank as top 20)
-* Core Courses GPA: 3.85/4 (Rank as top 5)
-* Year3 GPA: 3.96/4 (Rank as top 1)
-
+* Year3 GPA: 3.96/4.0 (Rank as 1/98)
+* Core courses
+  * Coding: Design and Analysis of Algorithms(4), Data Mining(4), Machine Learning(4), Object-Oriented Programming(4), Quantum Finance and Intelligent Financial Trading Systems(4)
+  * Math: Optimisation Methods(4), Discrete Structures(4), Introduction to Statistical Computing(4), Calculus(3.7), Linear Algebra(3.7), Advanced Statistics (3.7)
+  
 Award
 ======
 * 2021-2022: First Class Scholarship（School Level）
@@ -26,33 +27,27 @@ Award
 
 Work experience
 ======
-* Summer 2021: Research Assistant
-  * Quantum Finance Laboratory in BNU-HKBU
-  * Duties included: Application of quantum finance theory as a risk control module combined into reinforcement learning multi-intelligence trading algorithms
+* Feb2021-present: Research Assistant
+  * Quantum Finance Laboratory of BNU-HKBU UIC
   * Supervisor: Professor [Raymond Lee](https://dst.uic.edu.cn/en/faculty/faculty.htm#/raymondshtlee/en)
+  * Duties included: Application of quantum finance theory as a risk control module combined into reinforcement learning multi-intelligence trading algorithms
+  
 
-* Summer 2022: Research Assistant
+* Jun2022-Sep2022: Research Assistant
   * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center Sun Yat-Sen University
-  * Duties included: 
-    * A dry eye diagnosis model based on multimodal feature fusion
-      * Collation and cleaning of 1,000 patient questionnaire data and eye appearance videos collected by the hospital
-      * Development of a multimodal machine learning model (convolutional recurrent neural network for video data integrated with catBoost decision tree for structured data) to predict and classify the degree of dry eye symptoms in patients, with an evaluation index AUC of 0.95
-      * Comparison and optimisation of model performance and participation in thesis writing
-    * A deep learning model for diagnosing jaundice based on eye appearance
-      * Design and implementation of external validation experiments and participation in thesis writing
-    * A model for classification of post-dialysis blood test indicators in patients with kidney disease based on OCTA image analysis
-      * Data cleaning and extraction
-      * Analyze the problems of over-fitting due to mismatch between sample size and feature magnitude, poor modeling due to unbalanced distribution of sample labels, and design related experiments
   * Supervisor: Professor [Lin Haotian](https://bme.sysu.edu.cn/teacher/teacher05/1395910.htm)
+  * Duties included: 
+    * Designed and developed a multimodal learning model (video + survey table) to stratify dry eye symptoms, preventing unnecessary and complex checks.
+    * Designed and developed a tree-based machine learning model on using images of OCTA to predict the routine blood indicators after dialysis in patients with kidney disease, avoiding wounds to patients from blood tests.
   
 Competition experience
 =====
-* 2021.09: [Second Prize of Guangdong Province Division](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E5%9B%BD%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf) of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+* Sep 2021: [Second Prize of Guangdong Province Division](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E5%9B%BD%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf) of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
   * Level of Award: Around top 15% out of nation-wide competitors 
   * Name of Awarding Body: China Society for Industrial and Applied Mathematics
   * Details of Award: A genetic algorithm-based decision model for reducing raw material ordering and transportation costs in manufacturing companies
 
-* 2022.02: [Mertorious Winner](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E7%BE%8E%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf) of The Mathematical Contest in Modeling (MCM)
+* Feb 2022: [Mertorious Winner](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E7%BE%8E%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf) of The Mathematical Contest in Modeling (MCM)
   * Level of Award: Around top 10% out of world-wide competitors 
   * Name of Awarding Body: the Consortium for Mathematics and Its Applications
   * Details of Award: Designed the quantitative finance model for constructing the optimized portfolio based on sharpe ratio
