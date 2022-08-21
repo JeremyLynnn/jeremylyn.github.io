@@ -19,7 +19,7 @@ Academic Performance
 * Core Courses GPA: 3.85/4 (Rank as top 5)
 * Year3 GPA: 3.96/4 (Rank as top 1)
 
-Honer
+Award
 ======
 * 2021-2022: First Class Scholarship（School Level）
 * 2021-2022: National Scholarship Candidates
@@ -60,16 +60,11 @@ Competition experience
 
 Skills
 ======
-* Proficient with: Python*R*Matlab*Latex
-  *  Python
-  *  R
-  *  Matlab
-  *  Latex
-* Familiar with: Java*SQL*Git*C
-  * Java
-  * SQL
-  * Git
-  * C
+* Technical
+  * Proficient with: Python, R, Matlab, Latex
+  * Familiar with: Java, SQL, Git, C
+* Soft 
+  * Leadership, Sport
 
 Course Project
 =====
