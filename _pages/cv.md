@@ -22,7 +22,7 @@ Academic Performance
 Work experience
 ======
 * Summer 2021: Research Assistant
-  * Github University
+  * Quantum Finance Laboratory in BNU-HKBU
   * Duties included: 
   * Supervisor: Professor Raymond Lee
 
