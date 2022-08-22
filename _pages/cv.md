@@ -22,7 +22,7 @@ Academic Performance
   
 Award
 ======
-* 2021-2022: First Class Scholarship（School Level）
+* 2021-2022: First Class Scholarship(School Level)
 * 2021-2022: National Scholarship Candidates
 
 Work experience
