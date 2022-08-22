@@ -82,17 +82,17 @@ analytics:
 author:
   name             : "Lin Runsheng"
   avatar           : "https://s1.328888.xyz/2022/08/21/BAgfI.jpg"
-  bio              : "17722864002"
-  location         : "Guangzhou🇨🇳"
+  bio              : 
+  location         : "Guangzhou/Zhuhai 🇨🇳"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jeremylinrs@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  email            : "jeremylinrs@foxmail.com"
   bitbucket        :
   codepen          :
+  telephone number : "📱17722864002"
   dribbble         :
   flickr           :
   facebook         :
@@ -100,7 +100,7 @@ author:
   github           : "JeremyLynnn"
   google_plus      :
   keybase          :
-  instagram        : "muyimengyaoo"
+  instagram        : #"muyimengyaoo"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
