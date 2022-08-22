@@ -15,7 +15,7 @@ Education
 
 Academic Performance
 ======
-* Year3 [GPA](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E6%88%90%E7%BB%A9%E5%8D%95.pdf): 3.96/4.0 (Rank as 1/98 in major)
+* Year3 GPA^[1](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E6%88%90%E7%BB%A9%E5%8D%95.pdf): 3.96/4.0 (Rank as 1/98 in major)
 * Core courses
   * Coding: Design and Analysis of Algorithms(4), Data Mining(4), Machine Learning(4), Object-Oriented Programming(4), Quantum Finance and Intelligent Financial Trading Systems(4)
   * Math: Optimisation Methods(4), Discrete Structures(4), Introduction to Statistical Computing(4), Calculus(3.7), Linear Algebra(3.7), Advanced Statistics (3.7)
