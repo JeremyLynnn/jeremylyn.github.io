@@ -43,12 +43,12 @@ Work experience
   
 Competition experience
 =====
-* Sep 2021: [Second Prize of Guangdong Province Division](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E5%9B%BD%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf) of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+* Sep 2021: Second Prize of Guangdong Province Division<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E5%9B%BD%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf)</sup> of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
   * Level of Award: Around top 15% out of nation-wide competitors 
   * Name of Awarding Body: China Society for Industrial and Applied Mathematics
   * Details of Award: A genetic algorithm-based decision model for reducing raw material ordering and transportation costs in manufacturing companies
 
-* Feb 2022: [Mertorious Winner](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E7%BE%8E%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf) of The Mathematical Contest in Modeling (MCM)
+* Feb 2022: Mertorious Winner<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E7%BE%8E%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf)</sup> of The Mathematical Contest in Modeling (MCM)
   * Level of Award: Around top 10% out of world-wide competitors 
   * Name of Awarding Body: the Consortium for Mathematics and Its Applications
   * Details of Award: Designed the quantitative finance model for constructing the optimized portfolio based on sharpe ratio
