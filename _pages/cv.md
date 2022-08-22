@@ -35,7 +35,7 @@ Work experience
     * Applied the quantum finance theory on the risk control module of the trading system
   
 * Jun2022-Sep2022: Research Assistant
-  * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center Sun Yat-Sen University
+  * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center, Sun Yat-Sen University
   * Supervisor: Professor [Lin Haotian](https://bme.sysu.edu.cn/teacher/teacher05/1395910.htm)
   * Duties included: 
     * Designed and developed a multimodal learning model (video + survey table) to stratify dry eye symptoms, preventing unnecessary and complex checks.
