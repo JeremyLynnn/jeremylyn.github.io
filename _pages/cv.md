@@ -53,6 +53,18 @@ Competition experience
   * Name of Awarding Body: the Consortium for Mathematics and Its Applications
   * Details of Award: Designed the quantitative finance model for constructing the optimized portfolio based on sharpe ratio
 
+Course Project
+=====
+* Reinforcement Learning
+  * A Deep Deterministic Policy Gradient based Stock trading system
+* Natural Language Processing
+  * Sentiment analysis and forecast of project completion on Donorschoose crowdfunding platform
+* Computer Vision
+  * Chinese License Plate Recognition Classifier
+* Database/Software Design
+  * A literature search platform based on Spark and ElasticSearch
+* Others
+  * Audio feature extraction and analysis
 
 Skills
 ======
@@ -61,27 +73,5 @@ Skills
   * Familiar with: Java, SQL, Git, C
 * Soft 
   * Leadership, Sports
-
-Course Project
-=====
-* Reinforcement Learning
-  * A Deep Deterministic Policy Gradient based Stock trading system
-* Database/Software Design
-  * A used car trading system based on Django framework
-  * A literature search platform based on Spark and ElasticSearch
-  * A bank transaction system based on Swing framework
-* Natural Language Processing:
-  * Classification and extraction of text information
-  * Analysis and forecast of project completion on Donorschoose crowdfunding platform
-* Computer Vision
-  * LeNet-based traffic sign recognition classifier
-  * Chinese License Plate Recognition Classifier
-* Regression Analysis
-  * Used car market price analysis
-  * Analysis of the causes of heart disease
-* Others
-  * Large number multiplication algorithm on Fourier transform optimization
-  * Large-scale portfolio optimisation system in day trading
-  * Audio feature extraction and analysis
 
   
