@@ -22,8 +22,13 @@ Academic Performance
   
 Award
 ======
-* 2021-2022: First Class Scholarship(School Level)
+* 2021-2022: First Prize of Scholarship
+  * Intra-school
+  * BNU-HKBU UIC
+  * Awarded to students whose year GPA have achieved 3.83+/4.0（Top 4%) 
 * 2021-2022: National Scholarship Candidates
+  * Nation-wide
+  * Ministry of Education of the Peoples Republic of China
 
 Work experience
 ======
