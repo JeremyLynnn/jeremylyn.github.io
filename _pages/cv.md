@@ -16,9 +16,9 @@ Education
 Academic Performance
 ======
 * Year3 GPA<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E6%88%90%E7%BB%A9%E5%8D%95.pdf)</sup>: 3.96/4.0 (Rank as 1/98 in major)
-* Core courses
+* Core courses(partial)
   * Coding: Design and Analysis of Algorithms(4), Data Mining(4), Machine Learning(4), Object-Oriented Programming(4), Quantum Finance and Intelligent Financial Trading Systems(4)
-  * Math: Optimisation Methods(4), Discrete Structures(4), Introduction to Statistical Computing(4), Calculus(3.7), Linear Algebra(3.7), Advanced Statistics (3.7)
+  * Math: Optimisation Methods(4), Discrete Structures(4), Introduction to Statistical Computing(4), Financial Mathematics(4), Calculus(3.7), Linear Algebra(3.7), Advanced Statistics (3.7)
   
 Award
 ======
@@ -43,7 +43,7 @@ Work experience
   * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center, Sun Yat-Sen University
   * Supervisor: Professor Lin Haotian<sup>[*](https://bme.sysu.edu.cn/teacher/teacher05/1395910.htm)</sup>
   * Duties included: 
-    * Designed and developed a multimodal learning model (video + survey table) to stratify dry eye symptoms, preventing unnecessary and complex checks.
+    * Designed and developed a multimodal learning model (videos & images & tabular data) to stratify dry eye symptoms, preventing unnecessary and complex checks.
     * Designed and developed a tree-based machine learning model on using images of OCTA to predict the amount of hemoglobin and adequacy of cure after dialysis in patients with kidney disease, for avoiding wounds to patients from blood routine examination.
   
 Competition experience
