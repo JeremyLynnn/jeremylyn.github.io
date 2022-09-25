@@ -12,15 +12,17 @@ redirect_from:
 Education
 ======
 * B.S. in Data Science, BNU-HKBU United International College, 2019-2023(expected)
+  * GPA<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E6%88%90%E7%BB%A9%E5%8D%95.pdf)</sup>
+    * In junior year: 3.96/4.0 (Rank as 1/98 in major)
+    * In major courses: 3.86/4.0
 
-Academic Performance
+
+Coursework
 ======
-* GPA<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E6%88%90%E7%BB%A9%E5%8D%95.pdf)</sup>
-  * In junior year: 3.96/4.0 (Rank as 1/98 in major)
-  * In major courses: 3.86/4.0
-* Core courses(partial)
-  * Coding: Design and Analysis of Algorithms(4), Data Mining(4), Machine Learning(4), Object-Oriented Programming(4), Quantum Finance and Intelligent Financial Trading Systems(4)
-  * Math: Optimisation Methods(4), Discrete Structures(4), Introduction to Statistical Computing(4), Financial Mathematics(4), Calculus(3.7), Linear Algebra(3.7), Advanced Statistics (3.7)
+* Programming: 
+  * Design and Analysis of Algorithms(4), Data Mining(4), Machine Learning(4), Object-Oriented Programming(4), Quantum Finance and Intelligent Financial Trading Systems(4)
+* Mathematical: 
+  * Optimisation Methods(4), Discrete Structures(4), Introduction to Statistical Computing(4), Financial Mathematics(4), Calculus(3.7), Linear Algebra(3.7), Advanced Statistics (3.7)
   
 Honor
 ======
@@ -62,7 +64,7 @@ Competition experience
   * Details of Award: A genetic algorithm-based decision model for reducing raw material ordering and transportation costs in manufacturing companies
 
 
-Course Projects
+Technical Projects
 =====
 * Reinforcement Learning
   * A Deep Deterministic Policy Gradient based Stock trading system
