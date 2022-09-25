@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Data Science, BNU-HKBU United International College, 2023 (expected)
+* B.S. in Data Science, BNU-HKBU United International College, 2019-2023(expected)
 
 Academic Performance
 ======
@@ -76,9 +76,9 @@ Course Projects
 Skills
 ======
 * Technical
-  * Proficient with: Python, R, Matlab, Latex
-  * Familiar with: Java, SQL, Git, C
+  * Proficient with: Python • R • C • Matlab • SQL • Latex
+  * Familiar with: Linux • Java • Spark • Hadoop • Django
 * Soft 
-  * Leadership, Sports
+  * Leadership • Motivator • Collaborator • Entrepreneur • Sports
 
   
