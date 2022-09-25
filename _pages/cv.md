@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Data Science, BNU-HKBU United International College, 2019-2023(expected)
+  * Expecting a First class degree
   * GPA<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E6%88%90%E7%BB%A9%E5%8D%95.pdf)</sup>
     * In junior year: 3.96/4.0 (Rank as 1/98 in major)
     * In major courses: 3.86/4.0
