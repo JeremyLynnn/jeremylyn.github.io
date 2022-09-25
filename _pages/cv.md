@@ -31,7 +31,7 @@ Honor
   * Intra-school
   * BNU-HKBU UIC
   * Awarded to students whose year GPA have achieved 3.83+/4.0（Top 4%) 
-* Nov2022: National Scholarship Candidates
+* Nov2022: National Scholarship Nominees
   * Nation-wide
   * Ministry of Education of the Peoples Republic of China
 
