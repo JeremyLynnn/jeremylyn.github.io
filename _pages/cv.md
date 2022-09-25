@@ -37,7 +37,6 @@ Honor
 
 Research experience
 ======
-  
 * Jun2022-Sep2022: Research Assistant
   * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center, Sun Yat-Sen University
   * Supervisor: Professor Lin Haotian<sup>[*](https://bme.sysu.edu.cn/teacher/teacher05/1395910.htm)</sup>
@@ -54,12 +53,12 @@ Research experience
 
 Competition experience
 =====
-* Feb2022: Mertorious Winner of The Mathematical Contest in Modeling (MCM)<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E7%BE%8E%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf)</sup>
+* Feb2022: Mertorious Winner of The Mathematical Contest in Modeling (MCM)<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E7%BE%8E%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf)</sup> | Leader, Coder
   * Level of Award: Around top 10% out of world-wide competitors 
   * Name of Awarding Body: the Consortium for Mathematics and Its Applications
   * Details of Award: Designed the quantitative finance model for constructing the optimized portfolio based on sharpe ratio
 
-* Sep2021: Second Prize of Guangdong Province Division of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E5%9B%BD%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf)</sup>
+* Sep2021: Second Prize of Guangdong Province Division of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E5%9B%BD%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf)</sup> | Leader, Coder
   * Level of Award: Around top 15% out of nation-wide competitors 
   * Name of Awarding Body: China Society for Industrial and Applied Mathematics
   * Details of Award: A genetic algorithm-based decision model for reducing raw material ordering and transportation costs in manufacturing companies
@@ -84,4 +83,11 @@ Skills
 * Soft 
   * Leadership • Motivator • Collaborator • Entrepreneur • Sports
 
-  
+Extracurricular activities
+======
+* Na Chau Ancient Village Conservation Project | Leader
+  * UIC Volunteer Service Team
+  * West Tangjiawan Town, High-tech, Zhuhai, Guangdong
+  * Duties included: 
+    * 
+
