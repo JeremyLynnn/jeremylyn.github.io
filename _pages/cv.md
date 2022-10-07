@@ -9,14 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+<h3>
+<p align="right">
+Last updated on 7<sup>th</sup> October 2022
+</p>
+</h3>
+
 Education
 ======
 * B.S. in Data Science, BNU-HKBU United International College, 2019-2023(expected)
   * Expecting a First class degree
   * GPA<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E6%88%90%E7%BB%A9%E5%8D%95.pdf)</sup>
     * In junior year: 3.96/4.0 (Rank as 1/98 in major)
-    * In major courses: 3.86/4.0
-
+    * For core courses: 3.86/4.0
 
 Coursework
 ======
@@ -32,8 +37,7 @@ Honor
   * BNU-HKBU UIC
   * Awarded to students whose year GPA have achieved 3.83+/4.0（Top 4%) 
 * Nov2022: National Scholarship Nominees
-  * Nation-wide
-  * Ministry of Education of the Peoples Republic of China
+  * Awarded to Top 4 students in comprehensive ability in major.
 
 Research experience
 ======
@@ -41,7 +45,7 @@ Research experience
   * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center, Sun Yat-Sen University
   * Supervisor: Professor Lin Haotian<sup>[*](https://bme.sysu.edu.cn/teacher/teacher05/1395910.htm)</sup>
   * Duties included: 
-    * Designed and developed a multimodal learning model by using colored eye videos & images & tabular data of questionnaire to stratify dry eye symptoms, preventing unnecessary and complex checks.
+    * Designed and developed a multimodal learning model by using stained eye videos & images & tabular data of questionnaire to stratify dry eye symptoms, preventing unnecessary and complex checks.
     * Designed and developed a tree-based machine learning model on using images of OCTA to predict the amount of hemoglobin and adequacy of cure after dialysis in patients with kidney disease, for avoiding wounds to patients from blood routine examination.
 
 * Feb2021-present: Research Assistant
@@ -86,8 +90,16 @@ Skills
 Extracurricular activities
 ======
 * Na Chau Ancient Village Conservation Project \| Leader
+  * Apr2021
   * UIC Volunteer Service Team
-  * West Tangjiawan Town, High-tech, Zhuhai, Guangdong
+  * West Tangjiawan Town, Xiangzhou, Zhuhai, Guangdong
+  * Duties included: 
+    * Lead a 10-member team to help the Village Historical Museum of Nazhou Ancient Village to make a tourism brochure, publicize and promote Nazhou, and promote the development of local tourism.
+    * Team member task allocation, progress follow up and fund management
+    * Provide field footage for tourism brochures.
+
+* UIC Data Science Major Association
+  * Sep2019-Sep2021
+  * Head of the Outreach Department
   * Duties included: 
     * 
-
