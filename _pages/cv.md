@@ -102,4 +102,5 @@ Extracurricular activities
   * Sep2019-Sep2021
   * Head of the Outreach Department
   * Duties included: 
-    * 
+    * Assist in holding the 2020 freshmen Welcome party, CDS academic seminar and weekly speech.
+    * Provide sponsorship and support for the activities of the association.
