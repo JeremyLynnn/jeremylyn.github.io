@@ -50,7 +50,7 @@ Research experience
 
 * Feb2021-present: Research Assistant
   * Quantum Finance Laboratory of BNU-HKBU UIC
-  * Supervisor: Professor Raymond Lee<sup>[*](https://dst.uic.edu.cn/en/faculty/faculty.htm#/raymondshtlee/en)</sup>
+  * Supervisor: Doctor Raymond Lee<sup>[*](https://dst.uic.edu.cn/en/faculty/faculty.htm#/raymondshtlee/en)</sup>
   * Duties included: 
     * Play a role in a team that designed a novel network architecture Excitatory and Inhibitory Neuronal Synapse model (EINS), inspired by the Lee-Oscillator, which shows a significant improvement compared to GRU and LSTM in the declining speed and ultimate value of the loss, on doing time series regression task.
     * Designed and developed a DDPG based finance portfolio optimization system with a new designed network architecture on the actor of our model, explored the application of Quantum Price Level in risk control module by customizing state and reward function.
