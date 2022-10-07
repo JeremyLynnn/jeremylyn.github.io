@@ -26,9 +26,9 @@ Education
 Coursework
 ======
 * Programming: 
-  * Design and Analysis of Algorithms(A), Data Mining(A), Machine Learning(A), Object-Oriented Programming(A), Quantum Finance and Intelligent Financial Trading Systems(A)
+  * Design and Analysis of Algorithms(A), Data Mining(A), Machine Learning(A), Object-Oriented Programming(A), Quantum Finance and Intelligent Financial Trading Systems(A), Data Processing Workshop Series(A)
 * Mathematical: 
-  * Optimisation Methods(A), Discrete Structures(A), Statistical Computing(A), Financial Mathematics(A), Calculus(A-), Linear Algebra(A-), Advanced Statistics (A-)
+  * Optimisation Methods(A), Discrete Structures(A), Statistical Computing(A), Financial Mathematics(A), Calculus(A-), Linear Algebra(A-), Advanced Statistics (A-), Numerical Computation(A-)
   
 Honor
 ======
