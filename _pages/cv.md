@@ -57,16 +57,20 @@ Research experience
 
 Competition experience
 =====
+* Oct2022: Second Prize of Guangdong Province Division of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E5%9B%BD%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf)</sup> \| Leader, Coder
+  * Around top 15% out of nation-wide competitors 
+  * China Society for Industrial and Applied Mathematics
+  * Developed a bearings-only passive location model of UAV cluster and an adjustment model based on reinforcement learning (Q-learning), to optimize the cluster adjustment strategy, for minimizing the transmitting frequency and keeping electromagnetic silence.
+
 * Feb2022: Mertorious Winner of The Mathematical Contest in Modeling (MCM)<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E7%BE%8E%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf)</sup> \| Leader, Coder
   * Around top 10% out of world-wide competitors 
   * The Consortium for Mathematics and Its Applications
-  * Designed the quantitative finance model for constructing the optimized portfolio based on sharpe ratio
-
+  * Developed a quantitative finance model for constructing the optimized portfolio based on sharpe ratio.
+  
 * Sep2021: Second Prize of Guangdong Province Division of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E5%9B%BD%E8%B5%9B%E5%A5%96%E7%8A%B6.pdf)</sup> \| Leader, Coder
   * Around top 15% out of nation-wide competitors 
   * China Society for Industrial and Applied Mathematics
-  * A genetic algorithm-based decision model for reducing raw material ordering and transportation costs in manufacturing companies
-
+  * Developed a genetic algorithm-based decision model for reducing raw material ordering and transportation costs in manufacturing companies.
 
 Technical Projects
 =====
