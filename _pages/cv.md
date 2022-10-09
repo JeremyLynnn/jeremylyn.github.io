@@ -43,7 +43,7 @@ Research experience
 ======
 * Jun2022-Sep2022: Research Assistant
   * Artificial Intelligent Laboratory of Zhongshan Ophthalmic Center, Sun Yat-Sen University
-  * Supervisor: Professor Lin Haotian<sup>[*](https://bme.sysu.edu.cn/teacher/teacher05/1395910.htm)</sup>
+  * Supervisor: Professor Haotian Lin<sup>[*](https://bme.sysu.edu.cn/teacher/teacher05/1395910.htm)</sup>
   * Duties included: 
     * Designed and developed a multimodal learning model by using stained eye videos & images & tabular data of questionnaire to stratify dry eye symptoms, preventing unnecessary and complex checks.
     * Designed and developed a tree-based machine learning model on using images of OCTA to predict the amount of hemoglobin and adequacy of cure after dialysis in patients with kidney disease, for avoiding wounds to patients from blood routine examination.
