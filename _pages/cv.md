@@ -11,7 +11,7 @@ redirect_from:
 
 <h3>
 <p align="right">
-Last updated on 7<sup>th</sup> October 2022
+Last updated on 9<sup>th</sup> October 2022
 </p>
 </h3>
 
