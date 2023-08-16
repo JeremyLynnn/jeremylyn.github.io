@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JeremyLyn"
+title                    : "LawrenceLin"
 title_separator          : "-"
 name                     : &name "LawrenceLin"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jeremylinrs@foxmail.com"
+  email            : "lawrence.rs.lin@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JeremyLynnn"
+  github           : "LawrenceLinn"
   google_plus      :
   keybase          :
   instagram        : #"muyimengyaoo"
