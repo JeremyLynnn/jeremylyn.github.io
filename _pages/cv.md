@@ -11,13 +11,15 @@ redirect_from:
 
 <h3>
 <p align="right">
-Last updated on 9<sup>th</sup> October 2022
+Last updated on 16<sup>th</sup> August 2023
 </p>
 </h3>
 
 Education
 ======
-* B.S.(Honours) in Data Science, BNU-HKBU United International College, 2019-2023(expected)
+* M.Eng. in Mechanical & Industrial Engineering, University of Toronto, 2023-2025
+
+* B.S.(Honours) in Data Science, BNU-HKBU United International College, 2019-2023
   * Expecting a First class degree
   * GPA<sup>[*](https://github.com/JeremyLynnn/jeremylynnn.github.io/blob/master/files/%E6%88%90%E7%BB%A9%E5%8D%95.pdf)</sup>
     * In junior year: 3.96/4.0 (Rank as 1/98 in major)
